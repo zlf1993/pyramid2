@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f422d67a-500e-4126-91db-72b12520e186" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/plt.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CenterNet.py" beforeDir="false" afterPath="$PROJECT_DIR$/CenterNet.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/coco/coco.py" beforeDir="false" afterPath="$PROJECT_DIR$/coco/coco.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pc/log/train/events.out.tfevents.1582679694.longfei.6577.17355.v2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pc/log/train/events.out.tfevents.1582679700.longfei.profile-empty" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pc/log/train/events.out.tfevents.1582680029.longfei.6752.17355.v2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pc/log/train/events.out.tfevents.1582681019.longfei.7709.17361.v2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pc/log/train/events.out.tfevents.1582681172.longfei.7805.17373.v2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pc/log/train/events.out.tfevents.1582681451.longfei.7921.17367.v2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pc/log/train/events.out.tfevents.1582681546.longfei.8011.17361.v2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pc/log/train/plugins/profile/2020-02-25_20-15-00/local.trace" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pc/log/train/plugins/profile/2020-02-25_20-20-35/local.trace" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pc/log/train/plugins/profile/2020-02-25_20-37-05/local.trace" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pc/log/train/plugins/profile/2020-02-25_20-39-38/local.trace" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pc/log/train/plugins/profile/2020-02-25_20-44-17/local.trace" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pc/log/train/plugins/profile/2020-02-25_20-45-52/local.trace" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test1.py" beforeDir="false" afterPath="$PROJECT_DIR$/test1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/utils/visualize.py" beforeDir="false" afterPath="$PROJECT_DIR$/utils/visualize.py" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1YK2ptCaadelP4CiSYjXHDb5ayl" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f422d67a-500e-4126-91db-72b12520e186" name="Default Changelist" comment="" />
+      <created>1582677150774</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582677150774</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
